@@ -1,0 +1,10 @@
+streamlit
+pandas
+Pillow
+plotly
+matplotlib>=3.0
+folium
+geopandas
+streamlit_folium
+altair
+streamlit-option-menu
