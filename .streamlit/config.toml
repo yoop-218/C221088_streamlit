@@ -1,0 +1,14 @@
+# .streamlit/config.toml
+[theme]
+base = "light"
+primaryColor = "#2563EB"          # 버튼/포커스 파란색
+backgroundColor = "#F3F4F6"       # 전체 배경 (연한 회색)
+secondaryBackgroundColor = "#FFFFFF"  # 카드 / 사이드바 배경
+textColor = "#111827"             # 기본 글자색 (진한 회색 = 거의 검정)
+font = "sans serif"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
